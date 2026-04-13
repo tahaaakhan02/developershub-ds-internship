@@ -1,4 +1,4 @@
-# DevelopersHub Corporation — Data Science & Analytics Internship
+# — Data Science & Analytics
 
 This repository contains all 5 completed tasks for the **DevelopersHub Corporation Data Science & Analytics Internship Program**.
 
